@@ -92,6 +92,18 @@ h1, h2, h3, h4, h5, h6 {
 .main .container .col-md-5 p {color: #fff; font-size: 20px; }
 <--main-->
 
+<--supporting-->
+.supporting .row {margin:50px 0; }
+.supporting .row .col-md-8 {background: #fff; padding: 20px 40px 40px 40px; }
+.supporting .row .col-md-4 {background: #152230; padding: 20px 40px 40px 40px; }
+.supporting .row .sidebar h3 {color: #fff; }
+.supporting .row ul {list-style: none; margin:40px 0 0 0; padding:0; }
+.supporting .row ul li {margin: 0 0 20px 0; }
+.supporting .row .col-md-4 ul li {color: #fff; }
+.supporting .row ul li h4 span {border-bottom: 3px solid #1a77ff; }
+.supporting .row .col-md-12 {margin: 0; padding: 0; }
+<--supporting-->
+
 <--footer-->
 .footer {
     background: #000;
